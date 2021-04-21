@@ -2,4 +2,6 @@
 - 👀 I’m interested in: C++, Python, JavaScript, web development, access to information, technology that makes life easier, fighting social inequity 
 - 🌱 I’m currently learning: how to create Wix websites with JavaScript and Velo APIs, how to code more effectively during technical interviews
 - 💞️ I’m looking to collaborate on: beginner-friendly projects, projects that involve making resources more accessible to the public online, projects that empower people, projects that make life easier (e.g. accessibility software, apps for managing mental health struggles, productivity apps)  
-- 📫 How to reach me: Email me! Alex.Childers@humboldt.edu 
+- 📫 How to reach me: 
+  - Email: Alex.Childers@humboldt.edu
+  - Linkedin: www.linkedin.com/in/alex-b-childers
