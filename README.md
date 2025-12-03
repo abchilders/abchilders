@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Alex! My pronouns are they/them. I mostly use my programming powers to help people and to cause light mischief. I like volunteering and activism, and my dream is to work for a non-profit or do something hands-on that involves directly helping people. I'm passionate about advocating for foster youth, homeless folks, and folks in the mental health care system. I like cats, and I swear too much. 
-- 👀 I’m interested in: C++, Python, JavaScript, web development, access to information, technology that makes life easier, fighting social inequity 
-- 🌱 I’m currently learning: how to create Wix websites with JavaScript and Velo APIs, how to code more effectively during technical interviews
-- 💞️ I’m looking to collaborate on: beginner-friendly projects, projects that involve making resources more accessible to the public online, projects that empower people, projects that make life easier (e.g. accessibility software, apps for managing mental health struggles, productivity apps)  
+- 👋 Hi, I’m Alex! I like advocacy, light mischief, and using my programming powers to find very serious answers for very silly questions. My dream is to work for a non-profit or do something hands-on that involves directly helping people. I like cats. 
+- 👀 I’m interested in: C++, Python, JavaScript, web development, access to information, technology that makes life easier, resolving social inequity
+- 🌱 I’m currently learning: how to program in R
+-  💞️ I’m looking to collaborate on: beginner-friendly projects, projects that involve making resources more accessible to the public online, projects that empower people, projects that make life easier (e.g. accessibility software, apps for managing mental health struggles, productivity apps)  
 - 📫 How to reach me: 
-  - Email: Alex.Childers@humboldt.edu
   - Linkedin: www.linkedin.com/in/alex-b-childers
+  - Seek: https://www.seek.co.nz/profiles/alex-childers-6fq5SbHvyl
