@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alex! I like advocacy, light mischief, and using my programming powers to find very serious answers for very silly questions. My dream is to work for a non-profit or do something hands-on that involves directly helping people. I like cats. 
+- 👋 Hi, I’m Alex! I like cats, advocacy, light mischief, and using my programming powers to find very serious answers for very silly questions. My dream is to work for a non-profit or do something hands-on that involves directly helping people.
 - 👀 I’m interested in: C++, Python, JavaScript, web development, access to information, technology that makes life easier, resolving social inequity
 - 🌱 I’m currently learning: how to program in R
 -  💞️ I’m looking to collaborate on: beginner-friendly projects, projects that involve making resources more accessible to the public online, projects that empower people, projects that make life easier (e.g. accessibility software, apps for managing mental health struggles, productivity apps)  
